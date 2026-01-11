@@ -1,0 +1,31 @@
+order_id,date,customer_name,region,product,category,quantity,unit_price,total_sales
+1001,2025-01-05,Acme Corp,Northeast,Widget Pro,Electronics,15,299.99,4499.85
+1002,2025-01-07,TechStart Inc,West,DataSync Plus,Software,3,899.00,2697.00
+1003,2025-01-08,Global Retail,Southeast,Widget Pro,Electronics,25,299.99,7499.75
+1004,2025-01-10,Acme Corp,Northeast,CloudStore Basic,Software,1,1499.00,1499.00
+1005,2025-01-12,Innovate LLC,Midwest,Widget Standard,Electronics,50,149.99,7499.50
+1006,2025-01-15,TechStart Inc,West,DataSync Plus,Software,5,899.00,4495.00
+1007,2025-01-18,MegaMart,Southeast,Widget Pro,Electronics,100,299.99,29999.00
+1008,2025-01-20,StartupXYZ,West,CloudStore Basic,Software,2,1499.00,2998.00
+1009,2025-01-22,Global Retail,Southeast,Support Package,Services,1,5000.00,5000.00
+1010,2025-01-25,Acme Corp,Northeast,Widget Standard,Electronics,30,149.99,4499.70
+1011,2025-01-28,HealthFirst,Midwest,DataSync Enterprise,Software,1,4999.00,4999.00
+1012,2025-02-01,TechStart Inc,West,Widget Pro,Electronics,10,299.99,2999.90
+1013,2025-02-03,Innovate LLC,Midwest,CloudStore Pro,Software,3,2999.00,8997.00
+1014,2025-02-05,MegaMart,Southeast,Widget Standard,Electronics,200,149.99,29998.00
+1015,2025-02-08,StartupXYZ,West,Support Package,Services,1,5000.00,5000.00
+1016,2025-02-10,Global Retail,Southeast,DataSync Plus,Software,8,899.00,7192.00
+1017,2025-02-12,Acme Corp,Northeast,Widget Pro,Electronics,20,299.99,5999.80
+1018,2025-02-15,HealthFirst,Midwest,CloudStore Enterprise,Software,1,9999.00,9999.00
+1019,2025-02-18,TechStart Inc,West,Widget Standard,Electronics,75,149.99,11249.25
+1020,2025-02-20,Innovate LLC,Midwest,DataSync Enterprise,Software,2,4999.00,9998.00
+1021,2025-02-22,MegaMart,Southeast,Support Package,Services,2,5000.00,10000.00
+1022,2025-02-25,StartupXYZ,West,Widget Pro,Electronics,5,299.99,1499.95
+1023,2025-02-28,Global Retail,Southeast,CloudStore Pro,Software,4,2999.00,11996.00
+1024,2025-03-02,Acme Corp,Northeast,DataSync Plus,Software,6,899.00,5394.00
+1025,2025-03-05,HealthFirst,Midwest,Widget Standard,Electronics,40,149.99,5999.60
+1026,2025-03-08,TechStart Inc,West,CloudStore Basic,Software,3,1499.00,4497.00
+1027,2025-03-10,Innovate LLC,Midwest,Widget Pro,Electronics,12,299.99,3599.88
+1028,2025-03-12,MegaMart,Southeast,DataSync Enterprise,Software,1,4999.00,4999.00
+1029,2025-03-15,StartupXYZ,West,Support Package,Services,1,5000.00,5000.00
+1030,2025-03-18,Global Retail,Southeast,Widget Standard,Electronics,150,149.99,22498.50
